@@ -56,7 +56,7 @@ Dicho de otra forma un espacio de estado es un vector
 ### Ejemplo
 ![alt text](image.png)
 
-En el eentorno de la aspiradora
+En el entorno de la aspiradora
 las percepciones: locación y situacion 
 por ejemplo [A,sucio] 
 las acciones: {ir A, ir B, Limpiar, Nada}
