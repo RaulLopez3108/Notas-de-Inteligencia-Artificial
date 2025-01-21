@@ -11,6 +11,9 @@ es una disciplina y un conjunto de capacidades cognoscitivas
 e intelectuales expresadas por algoritmos cuyo proposito es 
 la creacion de maquinas que imiten la inteligencia humana 
 
+### **Prueba de Turing**
+La prueba de Tuirng es una herramienta para contestar a la pregunta,¿puede una máquina pensar?. Una computadora pasa la prueba si una persona despues de hacerle preguntas no puede determinar si las respuestas vienen de una persona real o de una computadora
+
 ### **Tipos de IA** 
 - **Sistemas que piensan como Humanos**: Estos sistemas tratan 
 de emular el pensamiento humano, como la automatización 
@@ -29,7 +32,7 @@ emular de forma racional el comportamiento humano
 Maximizar la utilidad esperada con las mediciones disponibles 
 con las acciones disponibles, con lo que se conoce del entorno 
 
-> **Racional no significa exitoso ni perfecto**
+> Racional no significa exitoso ni perfecto
 
 ### Lo que debe saber el agente del entorno
 - Medida de desempeño/utilidad (Tarea/Medida de desempeño)
@@ -37,7 +40,7 @@ con las acciones disponibles, con lo que se conoce del entorno
 - Actuadores (Acciones)
 - Sensores (Percepciones)
 
-> **M E A S**
+> M E A S
 
 ### Caracteristicas del entorno 
 - Discreto / Continuo
@@ -60,4 +63,5 @@ En el entorno de la aspiradora
 las percepciones: locación y situacion 
 por ejemplo [A,sucio] 
 las acciones: {ir A, ir B, Limpiar, Nada}
+
 
